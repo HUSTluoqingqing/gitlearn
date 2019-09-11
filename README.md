@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## This is a pytorch implementation of the model [Domain Separation Networks](https://arxiv.org/abs/1608.06019)
 
 ## Environment
@@ -26,3 +27,7 @@ features.
 ![mnist](./extra/mnist.jpg)
 
 ![mnist_m](./extra/mnist_m.jpg)
+=======
+# gitlearn
+git 
+>>>>>>> 83adeb5e0a23bf229816dd58a470ed856a5e6be8
